@@ -1,0 +1,11 @@
+JavaScript inlämning 2.
+
+createResultElement.
+Här skapas och sätts classer samt appendar till dess element.
+
+function findResult.
+Här finner du en funktion som filtrerar alla results, det som matchar searchstringen i item.title eller i
+item.description sparas till en variabel som kallas searchresults. Avslutar allt med att retunera searchresults.
+
+addeventListener.
+Här rörde jag ingenting.
